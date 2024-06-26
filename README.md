@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 👋 I'm Diego Albor Rojas
+- 🌱 I’m currently learning Backend Egineering and Software architecture.
 
 <!--
 **Daalb/Daalb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
